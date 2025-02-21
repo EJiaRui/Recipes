@@ -1,7 +1,6 @@
 # Guacamole Recipe
 ## Ingredients
-*  Avocado
-*  Lime
-*  Salt 
+*Avocado
+*Lemon
+*Salt 
 ## Instructions 
-*  Cut the avocado
